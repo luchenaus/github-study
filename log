@@ -9,3 +9,5 @@ git commit log
 git push 
 
 cause some conflict
+
+git reset --hard sdasdasdad
