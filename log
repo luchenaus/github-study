@@ -1,0 +1,15 @@
+clone it: 
+
+git clone https://github.com/luchenaus/github-study.git
+
+git add log 
+
+git commit log 
+ 
+git push 
+
+cause some conflict
+
+git reset --hard sdasdasdad
+
+just want to cause some conflict
